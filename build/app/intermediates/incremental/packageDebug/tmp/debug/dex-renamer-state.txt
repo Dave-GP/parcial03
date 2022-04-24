@@ -1,0 +1,4 @@
+#Sun Apr 24 15:17:01 CST 2022
+base.0=D\:\\RepositoriosGit\\parcial03\\pacial03\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
